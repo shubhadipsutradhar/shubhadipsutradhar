@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm 𝗦𝗛𝗨𝗕𝗛𝗔𝗗𝗜𝗣 𝗦𝗨𝗧𝗥𝗔𝗗𝗛𝗔𝗥</h1>
 <h3 align="center">An aspiring SWE from West Bengal, India</h3>
 
-- 🌐 Passionate Learner & Creator — Always exploring, learning, and building new things to make life easier and creative. Proactively engaging in projects that fuel passion and problem-solving skills.
-- 🎯 Goal-Oriented Vision — Aiming to evolve as a value-driven Tech Enthusiast, while embracing new challenges and expanding both hard & soft skills in the tech space for a better tomorrow.
-- 📫 Reach me at — **shubhadipsutradhar2006@gmail.com**
+- 🌐 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 & 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 — Always exploring, learning, and building new things to make life easier and creative. Proactively engaging in projects that fuel passion and problem-solving skills.
+- 🎯 𝐆𝐨𝐚𝐥-𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐕𝐢𝐬𝐢𝐨𝐧 — Aiming to evolve as a value-driven Tech Enthusiast, while embracing new challenges and expanding both hard & soft skills in the tech space for a better tomorrow.
+- 📫 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 𝐚𝐭 — **shubhadipsutradhar2006@gmail.com**
 
   
 <h3 align="left">Connect with me:</h3>
