@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHUBHADIP SUTRADHAR</h1>
 <h3 align="center">An aspiring SWE from West Bengal, India</h3>
 
-- 📫 How to reach me **shubhadipsutradhar2006@gmail.com**
+- 📫 Reach me at **shubhadipsutradhar2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
