@@ -12,7 +12,7 @@
  🎯 𝐆𝐨𝐚𝐥-𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐕𝐢𝐬𝐢𝐨𝐧 — Aiming to evolve as a value-driven Tech Enthusiast, while embracing new challenges and expanding both hard & soft skills in the tech space for a better tomorrow.
 </p>
 <p align="left">
- 📫 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 𝐚𝐭 — <strong>shubhadipsutradhar2006@gmail.com</strong>
+ 📫 𝐑𝐞𝐚𝐜𝐡 𝐌𝐞 𝐚𝐭 — <a href="mailto:shubhadipsutradhar2006@gmail.com"><strong>shubhadipsutradhar2006@gmail.com</strong></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
