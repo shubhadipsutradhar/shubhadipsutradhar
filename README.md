@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm SHUBHADIP SUTRADHAR</h1>
+<h1 align="center">Hello 👋, I'm 𝗦𝗛𝗨𝗕𝗛𝗔𝗗𝗜𝗣 𝗦𝗨𝗧𝗥𝗔𝗗𝗛𝗔𝗥</h1>
 <h3 align="center">An aspiring SWE from West Bengal, India</h3>
 
 - 📫 Reach me at **shubhadipsutradhar2006@gmail.com**
