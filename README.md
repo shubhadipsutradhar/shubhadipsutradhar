@@ -1,8 +1,11 @@
 <h1 align="center">Hello 👋, I'm 𝗦𝗛𝗨𝗕𝗛𝗔𝗗𝗜𝗣 𝗦𝗨𝗧𝗥𝗔𝗗𝗛𝗔𝗥</h1>
 <h3 align="center">An aspiring SWE from West Bengal, India</h3>
 
-- 📫 Reach me at **shubhadipsutradhar2006@gmail.com**
+- 🌐 Passionate Learner & Creator — Always exploring, learning, and building new things to make life easier and creative. Proactively engaging in projects that fuel passion and problem-solving skills.
+- 🎯 Goal-Oriented Vision — Aiming to evolve as a value-driven Tech Enthusiast, while embracing new challenges and expanding both hard & soft skills in the tech space for a better tomorrow.
+- 📫 Reach me at — **shubhadipsutradhar2006@gmail.com**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/shubhadip_offcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhadip_offcl" height="30" width="40" /></a>
