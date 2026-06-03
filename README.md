@@ -21,12 +21,13 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 
+
 <a href="https://twitter.com/shubhadip_offcl" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 <a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMGMxLjk2NSAwIDMuNTUzIDEuNTgzIDMuNTUzIDMuNTM1djE2LjkzMGMwIDEuOTUyLTEuNTg4IDMuNTM1LTMuNTUzIDMuNTM1SDMuNTUzQzEuNTg0IDI0IDAgMjIuNDY3IDAgMjAuNDY1VjMuNTM1QzAgMS41ODMgMS41ODQgMCAzLjU1MyAwaDE2Ljg5NHpNNy42NTcgMTguNDAxVjkuMTRINS40NDV2OS4yNjFoMi4yMTJ6TTYuNTU2IDguMTM3YzEuNzU0IDAgMi42OC0xLjE2MiAyLjY4LTIuNjE1LS4wMTQtMS40ODMtLjkyNi0yLjYxNi0yLjY1Ni0yLjYxNi0xLjcyOSAwLTIuNjgxIDEuMTMzLTIuNjgxIDIuNjE2IDAgMS40NTMuOTI0IDIuNjE1IDIuNjU2IDIuNjE1em0xNC40NDMgMTAuMjY0di00Ljk5NGMwLTIuNjc0LTEuNDI2LTMuOTE2LTMuMzMzLTMuOTE2LTEuNTM5IDAtMi4yMy44NDYtMi42MTUgMS40MzN2LTEuMzRoLTIuMjE0Yz4wMjkuNjIxIDAgOS4yNjEgMCA5LjI2MWgyLjIxNHYtNS4xN2MwLS4yNzYuMDItLjU1My4xMDEtLjc0OC4yMjMtLjU1LjcyOC0xLjExOCAxLjU3Ni0xLjExOCAxLjExIDAgMS41NTUuODQ3IDEuNTU1IDIuMDg5djQuOTQ4aDIuMjE0eiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=" alt="LinkedIn" />
 </a>
 
 <a href="https://facebook.com/shubhadipsutradhar0" target="_blank">
@@ -36,7 +37,6 @@
 <a href="https://instagram.com/shubhadip_sutradhar" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-
 
 
 
