@@ -20,25 +20,38 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<!-- X (Twitter) -->
+<!-- X Logo (Adaptive) -->
 <a href="https://twitter.com/shubhadip_offcl" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/x" alt="X" height="30" width="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF">
+    <img alt="X" src="https://cdn.simpleicons.org/x/000000" height="30" width="40">
+  </picture>
 </a>
 
-<!-- LinkedIn -->
+<!-- LinkedIn Logo (Adaptive) -->
 <a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="30" width="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40">
+  </picture>
 </a>
 
-<!-- Facebook -->
+<!-- Facebook Logo (Adaptive) -->
 <a href="https://facebook.com/shubhadipsutradhar0" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/facebook" alt="Facebook" height="30" width="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/FFFFFF">
+    <img alt="Facebook" src="https://cdn.simpleicons.org/facebook/000000" height="30" width="40">
+  </picture>
 </a>
 
-<!-- Instagram -->
+<!-- Instagram Logo (Adaptive) -->
 <a href="https://instagram.com/shubhadip_sutradhar" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="30" width="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/FFFFFF">
+    <img alt="Instagram" src="https://cdn.simpleicons.org/instagram/000000" height="30" width="40">
+  </picture>
 </a>
+
 
 
 </p>
