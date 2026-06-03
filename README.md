@@ -23,9 +23,20 @@
 <a href="https://twitter.com/shubhadip_offcl" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/x/FFFFFF" alt="shubhadip_offcl" height="30" width="40" />
 </a>
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/linkedin/000000" alt="shubhadipsutradhar" height="30" width="40" />
+</a>
 
-<a href="https://linkedin.com/in/shubhadipsutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhadipsutradhar" height="30" width="40" /></a>
-<a href="https://facebook.com/shubhadipsutradhar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubhadipsutradhar0" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhadip_sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhadip_sutradhar" height="30" width="40" /></a>
+<!-- Facebook -->
+<a href="https://facebook.com/shubhadipsutradhar0" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/facebook/000000" alt="shubhadipsutradhar0" height="30" width="40" />
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/shubhadip_sutradhar" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/instagram/000000" alt="shubhadipsutradhar" height="30" width="40" />
+</a>
+
 </p>
 
