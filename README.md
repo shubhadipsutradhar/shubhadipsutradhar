@@ -20,13 +20,13 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  
+
 <a href="https://twitter.com/shubhadip_offcl" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
 <a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn" />
 </a>
 
 <a href="https://facebook.com/shubhadipsutradhar0" target="_blank">
