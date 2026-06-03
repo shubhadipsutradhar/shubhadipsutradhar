@@ -20,23 +20,26 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
+<!-- X (Twitter) -->
 <a href="https://twitter.com/shubhadip_offcl" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/x/FFFFFF" alt="shubhadip_offcl" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/x" alt="shubhadip_offcl" height="30" width="40" />
 </a>
+
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin/000000" alt="shubhadipsutradhar" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="shubhadipsutradhar" height="30" width="40" />
 </a>
 
 <!-- Facebook -->
 <a href="https://facebook.com/shubhadipsutradhar0" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/facebook/000000" alt="shubhadipsutradhar0" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/facebook" alt="shubhadipsutradhar0" height="30" width="40" />
 </a>
 
 <!-- Instagram -->
 <a href="https://instagram.com/shubhadip_sutradhar" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/instagram/000000" alt="shubhadipsutradhar" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/instagram" alt="shubhadip_sutradhar" height="30" width="40" />
 </a>
+
 
 </p>
 
