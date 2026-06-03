@@ -20,21 +20,26 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
+<!-- X (Twitter) -->
 <a href="https://twitter.com/shubhadip_offcl" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 
+<!-- LinkedIn (Fixed) -->
 <a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<!-- Facebook -->
 <a href="https://facebook.com/shubhadipsutradhar0" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 
+<!-- Instagram -->
 <a href="https://instagram.com/shubhadip_sutradhar" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+
 
 
 
