@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm 𝗦𝗛𝗨𝗕𝗛𝗔𝗗𝗜𝗣 𝗦𝗨𝗧𝗥𝗔𝗗𝗛𝗔𝗥</h1>
-<h3 align="center">An aspiring SWE from West Bengal, India</h3>
+<h3 align="center">An aspiring Tech Enthusiast from West Bengal, India</h3>
 <h3 align="center">
   <a href="https://shubhadipsutradhar.netlify.app" target="_blank">🌐  shubhadipsutradhar.netlify.app</a>
 </h3>
@@ -27,7 +27,7 @@
 
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/shubhadipsutradhar" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="shubhadipsutradhar" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="shubhadipsutradhar" height="30" width="40" />
 </a>
 
 <!-- Facebook -->
@@ -39,6 +39,7 @@
 <a href="https://instagram.com/shubhadip_sutradhar" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/instagram" alt="shubhadip_sutradhar" height="30" width="40" />
 </a>
+
 
 
 </p>
